@@ -26,7 +26,7 @@
     dest: /usr/local/bin/remnux-cli
     mode: a+x
 
-- name: Run the REMnux installer
+- name: Run the REMnux installer - This will take a long time!
   ansible.builtin.shell: /usr/local/bin/remnux-cli install --mode=cloud
   become: true
   register: remnux_install
