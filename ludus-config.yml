@@ -1,7 +1,7 @@
 ludus:
   - vm_name: "{{ range_id }}-REMnux"
     hostname: "{{ range_id }}-REMnux"
-    template: ubuntu-20.04-x64-server-template
+    template: ubuntu-24.04-x64-server-template
     vlan: 99
     ip_last_octet: 3
     ram_gb: 6

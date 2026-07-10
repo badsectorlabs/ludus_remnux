@@ -4,7 +4,7 @@ dependencies: []
 galaxy_info:
   role_name: ludus_remnux
   author: badsectorlabs
-  description: An Ansible Role that installs REMnux on Ubuntu 20.04 systems
+  description: An Ansible Role that installs REMnux on Ubuntu 24.04 systems
   company: Bad Sector Labs
   license: GPLv3
   min_ansible_version: "2.10"

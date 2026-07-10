@@ -1,15 +1,15 @@
 # Ansible Role: REMnux ([Ludus](https://ludus.cloud))
 
-An Ansible Role that installs [REMnux](https://remnux.org/) on Ubuntu 20.04 systems.
+An Ansible Role that installs [REMnux](https://remnux.org/) on Ubuntu 24.04 systems.
 
 ## Requirements
 
-You must have the ubuntu-20.04-x64-server-template built on your ludus host. You can add it with:
+You must have the ubuntu-24.04-x64-server-template built on your ludus host. You can add it with:
 
 ```
 git clone https://gitlab.com/badsectorlabs/ludus.git
 cd ludus/templates
-ludus templates add -d ubuntu-20.04-x64-server
+ludus templates add -d ubuntu-24.04-x64-server
 ludus templates build
 ```
 
