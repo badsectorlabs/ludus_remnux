@@ -2,6 +2,8 @@
 
 An Ansible Role that installs [REMnux](https://remnux.org/) on Ubuntu 24.04 systems.
 
+This is archived and has been moved to [the template](https://github.com/badsectorlabs/ludus-source-bsl).
+
 ## Requirements
 
 You must have the ubuntu-24.04-x64-server-template built on your ludus host. You can add it with:
